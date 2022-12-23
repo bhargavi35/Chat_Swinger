@@ -30,19 +30,20 @@ _**ChatSwinger** is a simple chat application built using `Socket.io` and `Next.
 <br/>
 
 ## **Glimpses**
-`Register`
+
+**Register**
 
 ![Register](https://github.com/Bhawna32/ChatSwinger/blob/main/Frontend/public/pic1.png)
 
 <br/>
 
-`Login`
+**Login**
 
 ![Login](https://github.com/Bhawna32/ChatSwinger/blob/main/Frontend/public/pic2.png)
 
 <br/>
 
-`ChatApp`
+**ChatApp**
 
 ![ChatApp](https://github.com/Bhawna32/ChatSwinger/blob/main/Frontend/public/pic3.png)
 ![ChatApp](https://github.com/Bhawna32/ChatSwinger/blob/main/Frontend/public/pic4.png)
