@@ -1,4 +1,4 @@
-# **ChatSwinger**
+# **Chat_Swinger**
 
 ## **About the Project**
 
